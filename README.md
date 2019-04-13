@@ -22,4 +22,4 @@ face detection
 Key point positioning
 
 # 推荐搜索广告
-FM
+FM FFM DeepFM libffm xlearn
