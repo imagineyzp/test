@@ -11,6 +11,7 @@ WTs RUL
 # 深度学习
 ## tensorflow
 tensorboard
+tf.summary
 
 ## nlp
 word2vec
